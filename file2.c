@@ -1,3 +1,5 @@
+// This is test file number 2
+
 #include <stdio.h>
 
 int main(int argc, char *argv[])
