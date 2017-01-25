@@ -1,4 +1,4 @@
-// This is a test file number 2
+// This is a test for file number 2
 
 #include <stdio.h>
 
